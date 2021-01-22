@@ -1,0 +1,2 @@
+# NestedReplies
+The aim of the Project is to use a Dynamic Approach to create a limitless comment section in which replies can have further nested replies and so on, in which each comment &amp; reply have their own amount of likes. The idea is being taken from Reddit and HackerRank Discussion threads. The project involved working on Front End Technologies like HTML, CSS, JavaScript, jQuery, and Bootstrap.
